@@ -1,0 +1,12 @@
+C:\Users\longh\source\repos\DataLayer\bin\Release\netcoreapp3.1\DataLayer.deps.json
+C:\Users\longh\source\repos\DataLayer\bin\Release\netcoreapp3.1\DataLayer.dll
+C:\Users\longh\source\repos\DataLayer\bin\Release\netcoreapp3.1\DataLayer.pdb
+C:\Users\longh\source\repos\DataLayer\bin\Release\netcoreapp3.1\Models.dll
+C:\Users\longh\source\repos\DataLayer\bin\Release\netcoreapp3.1\Models.pdb
+C:\Users\longh\source\repos\DataLayer\obj\Release\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+C:\Users\longh\source\repos\DataLayer\obj\Release\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\longh\source\repos\DataLayer\obj\Release\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Users\longh\source\repos\DataLayer\obj\Release\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\longh\source\repos\DataLayer\obj\Release\netcoreapp3.1\DataLayer.csproj.CopyComplete
+C:\Users\longh\source\repos\DataLayer\obj\Release\netcoreapp3.1\DataLayer.dll
+C:\Users\longh\source\repos\DataLayer\obj\Release\netcoreapp3.1\DataLayer.pdb
